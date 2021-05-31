@@ -1,0 +1,1002 @@
+[ AutoCAD LT - Wed Oct 07 13:47:46 2020  ]----------------------------------------
+
+Command: 
+Command: LI
+LIST 63 found
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cfd
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 34803.59  Y=-19486.30  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 22.620 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = c0d4
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 45423.34  Y=-19782.40  Z=     0.00
+            height    350.00
+              text áB=4.370m2
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = c074
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 31552.01  Y=  5334.44  Z=     0.00
+            height    350.00
+              text áB=28.250m2
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = ada3
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27322.02  Y=-54731.01  Z=     0.00
+            height    350.00
+              text áB=6.370m2
+          rotation angle      0
+Press ENTER to continue: 
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = ad83
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35895.18  Y=-37520.18  Z=     0.00
+            height    350.00
+              text áB=4.000m2
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 1 (red)    Linetype: "BYLAYER"
+                   Handle = 4dc9
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35082.46  Y=-55142.70  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=0.920m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 1 (red)    Linetype: "BYLAYER"
+                   Handle = 4dc3
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35040.62  Y=-54612.65  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 6.500 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4dc0
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+Press ENTER to continue: 
+             start point, X= 27322.02  Y=-53748.51  Z=     0.00
+            height    350.00
+              text D-20 t=250
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4dba
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27322.02  Y=-54231.01  Z=     0.00
+            height    350.00
+              text á@=22.500m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 5 (blue)    Linetype: "BYLAYER"
+                   Handle = 4dad
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27471.69  Y=-56114.00  Z=     0.00
+            height    350.00
+              text áA=1.880m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 5 (blue)    Linetype: "BYLAYER"
+                   Handle = 4dac
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27471.69  Y=-55614.00  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4da0
+Press ENTER to continue: 
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 19164.05  Y=-56647.94  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=0.460m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d9a
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 19122.21  Y=-56117.88  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 3.920 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d97
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 20690.83  Y=-51774.68  Z=     0.00
+            height    350.00
+              text D-20 t=500
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d91
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 20690.83  Y=-52257.19  Z=     0.00
+            height    350.00
+              text á@=7.190m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+Press ENTER to continue: 
+                            Space: Model space
+                   Handle = 4d8b
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 20690.83  Y=-52757.18  Z=     0.00
+            height    350.00
+              text áB=3.220m2
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d84
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 20816.75  Y=-54866.51  Z=     0.00
+            height    350.00
+              text áA=2.020m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d83
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 20816.75  Y=-54366.51  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 1 (red)    Linetype: "BYLAYER"
+                   Handle = 4d7d
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 42643.73  Y=-39176.92  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=0.560m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+Press ENTER to continue: 
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 1 (red)    Linetype: "BYLAYER"
+                   Handle = 4d77
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 42601.89  Y=-38646.86  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 4.000 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d74
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35895.18  Y=-36537.68  Z=     0.00
+            height    350.00
+              text D-20 t=250
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d6e
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35895.18  Y=-37020.18  Z=     0.00
+            height    350.00
+              text á@=12.000m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 5 (blue)    Linetype: "BYLAYER"
+                   Handle = 4d61
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35379.23  Y=-40255.17  Z=     0.00
+            height    350.00
+Press ENTER to continue: 
+              text áA=1.000m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 5 (blue)    Linetype: "BYLAYER"
+                   Handle = 4d60
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35379.23  Y=-39755.16  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d4c
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 20028.32  Y=-36489.54  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=1.940m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d46
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 19986.48  Y=-35959.48  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 14.620 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d3d
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+Press ENTER to continue: 
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 26327.62  Y=-37448.26  Z=     0.00
+            height    350.00
+              text á@=36.790m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d43
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 26327.62  Y=-36965.76  Z=     0.00
+            height    350.00
+              text D-20 t=500
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d37
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 26327.62  Y=-37948.26  Z=     0.00
+            height    350.00
+              text áB=13.920m2
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d30
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 26273.69  Y=-39800.81  Z=     0.00
+            height    350.00
+              text áA=7.400m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d2f
+                   Group = *A21
+Press ENTER to continue: 
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 26273.69  Y=-39300.81  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 1 (red)    Linetype: "BYLAYER"
+                   Handle = 4d26
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 53101.00  Y=-20208.09  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=0.630m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 1 (red)    Linetype: "BYLAYER"
+                   Handle = 4d20
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 53059.17  Y=-19678.03  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 4.500 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d1d
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 45423.34  Y=-18799.90  Z=     0.00
+            height    350.00
+              text D-20 t=250
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+Press ENTER to continue: 
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d17
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 45423.34  Y=-19282.40  Z=     0.00
+            height    350.00
+              text á@=11.250m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 5 (blue)    Linetype: "BYLAYER"
+                   Handle = 4d0a
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 45419.06  Y=-20971.82  Z=     0.00
+            height    350.00
+              text áA=1.130m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Color: 5 (blue)    Linetype: "BYLAYER"
+                   Handle = 4d09
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 45419.06  Y=-20471.82  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4d03
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 34845.43  Y=-20016.36  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=3.100m2 
+          rotation angle      0
+Press ENTER to continue: 
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cfb
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27876.28  Y=-18822.23  Z=     0.00
+            height    350.00
+              text D-20 t=500
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cf5
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27876.28  Y=-19304.73  Z=     0.00
+            height    350.00
+              text á@=52.000m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cef
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27876.28  Y=-19804.73  Z=     0.00
+            height    350.00
+              text áB=22.250m2
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4ce7
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27822.35  Y=-21657.28  Z=     0.00
+            height    350.00
+Press ENTER to continue: 
+              text áA=11.380m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4ce6
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 27822.35  Y=-21157.28  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4ce0
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 41632.13  Y=  6628.27  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=4.020m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cda
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 41590.29  Y=  7158.33  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 28.910 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cd8
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+Press ENTER to continue: 
+             start point, X= 31552.01  Y=  6316.94  Z=     0.00
+            height    350.00
+              text D-20 t=500
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cd2
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 31552.01  Y=  5834.44  Z=     0.00
+            height    350.00
+              text á@=55.500m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cc4
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 36042.67  Y=  6511.68  Z=     0.00
+            height    350.00
+              text áA=14.500m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cc3
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 36042.67  Y=  7011.69  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cbd
+                   Group = *A21
+             Style = "EPST"    
+Press ENTER to continue: 
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 41787.69  Y= 24632.72  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=3.880m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cb7
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 41745.85  Y= 25162.78  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 27.710 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4cb5
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 31546.78  Y= 24569.14  Z=     0.00
+            height    350.00
+              text D-20 t=500
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4caf
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 31546.78  Y= 24086.64  Z=     0.00
+            height    350.00
+              text á@=40.750m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4ca9
+Press ENTER to continue: 
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 31546.78  Y= 23586.64  Z=     0.00
+            height    350.00
+              text áB=27.500m2
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4ca1
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 36002.07  Y= 24497.90  Z=     0.00
+            height    350.00
+              text áA=13.880m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4ca0
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 36002.07  Y= 24997.90  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4c88
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 41908.40  Y= 42617.59  Z=     0.00
+            height    350.00
+              text íPó±ç”êŒ A=3.740m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+Press ENTER to continue: 
+                            Space: Model space
+                   Handle = 4c82
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 41866.57  Y= 43147.65  Z=     0.00
+            height    350.00
+              text îrêÖÉVÅ[Ég L= 26.500 m 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4c80
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 31541.55  Y= 42821.33  Z=     0.00
+            height    350.00
+              text D-20 t=500
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4c7a
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 31541.55  Y= 42338.83  Z=     0.00
+            height    350.00
+              text á@=26.500m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4c74
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 31541.55  Y= 41838.83  Z=     0.00
+            height    350.00
+              text áB=26.500m2
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+Press ENTER to continue: 
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4c6c
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35907.37  Y= 42338.84  Z=     0.00
+            height    350.00
+              text áA=13.250m2 
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+                  TEXT      Layer: "D-EPS-STR-HTXT"
+                            Space: Model space
+                   Handle = 4c6b
+                   Group = *A21
+             Style = "EPST"    
+        Annotative: No
+             Typeface = ÇlÇr ÉSÉVÉbÉN 
+             start point, X= 35907.37  Y= 42838.84  Z=     0.00
+            height    350.00
+              text ä‘ãlÇﬂÉuÉçÉbÉN
+          rotation angle      0
+             width scale factor      1.00
+         obliquing angle      0
+        generation normal
+
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects: *Cancel*
+
+Command: LOGFILEOFF

@@ -1,0 +1,104 @@
+[ AutoCAD LT - Wed Oct 07 13:44:55 2020  ]----------------------------------------
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: LI
+LIST 6 found
+
+                  LWPOLYLINE  Layer: "F-0"
+                            Space: Model space
+                   Handle = c2ab
+            Closed 
+    Constant width      0.00
+              area   680488119.81
+         perimeter   116443.79 
+
+          at point  X= 19665.91  Y= -7673.22  Z=     0.00
+          at point  X= 61698.12  Y= -7673.22  Z=     0.00
+          at point  X= 61698.12  Y=-23862.90  Z=     0.00
+          at point  X= 19665.91  Y=-23862.90  Z=     0.00
+
+                  LWPOLYLINE  Layer: "F-0"
+                            Space: Model space
+                   Handle = c2aa
+            Closed 
+    Constant width      0.00
+              area   498016147.10
+         perimeter   93371.73 
+
+          at point  X= 19419.69  Y=-25354.99  Z=     0.00
+          at point  X= 49609.25  Y=-25354.99  Z=     0.00
+          at point  X= 49609.25  Y=-41851.29  Z=     0.00
+          at point  X= 19419.69  Y=-41851.29  Z=     0.00
+
+                  LWPOLYLINE  Layer: "F-0"
+                            Space: Model space
+                   Handle = c2a9
+            Closed 
+    Constant width      0.00
+              area   385993758.81
+         perimeter   82083.58 
+
+          at point  X= 16904.63  Y=-44075.68  Z=     0.00
+          at point  X= 43351.18  Y=-44075.68  Z=     0.00
+          at point  X= 43351.18  Y=-58670.92  Z=     0.00
+          at point  X= 16904.63  Y=-58670.92  Z=     0.00
+
+                  LWPOLYLINE  Layer: "F-0"
+                            Space: Model space
+                   Handle = c2ae
+            Closed 
+    Constant width      0.00
+              area   528264150.74
+         perimeter   106929.33 
+
+          at point  X= 20913.70  Y= 52813.27  Z=     0.00
+          at point  X= 61297.17  Y= 52813.27  Z=     0.00
+          at point  X= 61297.17  Y= 39732.07  Z=     0.00
+          at point  X= 20913.70  Y= 39732.07  Z=     0.00
+
+                  LWPOLYLINE  Layer: "F-0"
+                            Space: Model space
+                   Handle = c2ad
+            Closed 
+    Constant width      0.00
+              area   540050822.98
+         perimeter   102314.40 
+
+          at point  X= 22143.61  Y= 35371.84  Z=     0.00
+Press ENTER to continue: 
+          at point  X= 58409.30  Y= 35371.84  Z=     0.00
+          at point  X= 58409.30  Y= 20480.33  Z=     0.00
+          at point  X= 22143.61  Y= 20480.33  Z=     0.00
+
+                  LWPOLYLINE  Layer: "F-0"
+                            Space: Model space
+                   Handle = c2ac
+            Closed 
+    Constant width      0.00
+              area   507186613.97
+         perimeter   99605.98 
+
+          at point  X= 22820.01  Y= 17200.44  Z=     0.00
+          at point  X= 58346.84  Y= 17200.44  Z=     0.00
+          at point  X= 58346.84  Y=  2924.28  Z=     0.00
+          at point  X= 22820.01  Y=  2924.28  Z=     0.00
+
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command: *Cancel*
+
+Command: LOGFILEOFF
